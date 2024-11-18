@@ -1,3 +1,12 @@
-# DBZ-Store
+Projeto da Loja do Goku
 
-Projeto de PWI feito por Kaue Vasconcelos Bucciotti e Vinícius de Lima Souza
+Atividade da Disciplina de Desenvolvimento Web.
+
+Autores: Kaue Vasconcelos Bucciotti e Vinicius de Lima Souza
+
+Links
+Página do Projeto
+
+Perfil do Kaue
+
+Perfil do Vinicius
