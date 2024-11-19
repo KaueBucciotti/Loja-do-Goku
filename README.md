@@ -5,8 +5,8 @@ Atividade da Disciplina de Desenvolvimento Web.
 Autores: Kaue Vasconcelos Bucciotti e Vinicius de Lima Souza
 
 Links
-Página do Projeto
+Página do Projeto: https://kauebucciotti.github.io/Loja-do-Goku/
 
-Perfil do Kaue
+Perfil do Kaue: https://github.com/KaueBucciotti
 
-Perfil do Vinicius
+Perfil do Vinicius: https://github.com/ViniciusLimaSouza
